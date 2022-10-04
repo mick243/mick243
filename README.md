@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 
 <body>
-<ul>
+<ul margin-left="20px">
   <li>SWEA-D1</li>
   <li>b</li>
   <li>c</li>
