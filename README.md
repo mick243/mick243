@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mick243&show_icons=true&theme=radical)
 <br><br>
-🌱 studying language 🌱
+<p class = "title" align="center">🌱 studying language 🌱 </p>
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
