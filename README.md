@@ -14,10 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<style>
-ul {
-	list-style-type: square;
-}
+
 </style>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mick243&show_icons=true&theme=radical)
 <br><br>
@@ -32,7 +29,7 @@ ul {
 
 <body>
 <ul>
-  <li>a</li>
+  <li>SWEA-D1</li>
   <li>b</li>
   <li>c</li>
 </ul>
