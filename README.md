@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# SWEA
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mick243&show_icons=true&theme=radical)
 <br><br>
 <p class = "title" align="center">🌱 studying language 🌱 </p>
@@ -23,4 +24,3 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
 </div>
-# SWEA
