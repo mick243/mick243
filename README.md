@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 
 <body>
-#SWEA
+<p class ="swea" font-size="16px">SWEA</p>
 <ul class = "subject" margin-left="20px">
   <li>D1</li>
   <li>D2</li>
