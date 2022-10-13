@@ -27,9 +27,10 @@ Here are some ideas to get you started:
 
 
 <body>
+#SWEA
 <ul class = "subject" margin-left="20px">
-  <li>SWEA-D1</li>
-  <li>b</li>
+  <li>D1</li>
+  <li>D2</li>
   <li>c</li>
 </ul>
 </body>
