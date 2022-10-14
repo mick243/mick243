@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=mick243&show_icons=true&theme=radical">
 </p>
 
+</br></br>
+
 <p class = "title" align="center" font-weight=bold>🌱 Studying Language 🌱 </p>
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
