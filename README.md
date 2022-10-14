@@ -26,4 +26,5 @@ Here are some ideas to get you started:
 <p class = "title" align="center">🌱 Tools 🌱 </p>
 <div align="center">
 	<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
+	<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
 </div>
