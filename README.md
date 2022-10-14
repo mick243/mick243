@@ -25,12 +25,6 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
 </div>
 
-
-<body>
-<p class ="swea" font-size="16px">🤔SWEA🤔</p>
-<ul class = "subject" margin-left="20px">
-  <li>D1</li>
-  <li>D2</li>
-  <li>c</li>
-</ul>
-</body>
+##🤔SWEA🤔
+-D1
+-D2 
