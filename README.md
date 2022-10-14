@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
 </div>
-<p class = "title">🌱 Tools 🌱 </p>
-<div>
+<p class = "title" align="right">🌱 Tools 🌱 </p>
+<div align="right">
 	<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 	<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
 </div>
