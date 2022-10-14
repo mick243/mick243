@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align = "center">
-<img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mick243&layout=compact)](https://github.com/mick243/github-readme-stats)">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mick243&layout=compact">
 </p>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mick243&show_icons=true&theme=radical)
 
