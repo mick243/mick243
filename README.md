@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 <p align = "center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mick243&layout=compact">
 </p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mick243&show_icons=true&theme=radical)
+<p align = "center">
+<img src="https://github-readme-stats.vercel.app/api?username=mick243&show_icons=true&theme=radical">
+</p>
 
 <p class = "title" align="center" font-weight=bold>🌱 Studying Language 🌱 </p>
 <div align="center">
