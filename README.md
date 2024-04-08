@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
 </div>
 </br></br>
-<p class = "title" align="center">🌱 Tools 🌱 </p>
+**<p class = "title" align="center">🌱 Tools 🌱 </p>**
 <div align="center">
 	<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 	<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
