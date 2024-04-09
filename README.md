@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 </br>
 
-##<p class = "title" align="center" > Used Language Percentage </p>
+<p align="center" > ##Used Language Percentage </p>
 <p align = "center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mick243&layout=compact">
 </p>
