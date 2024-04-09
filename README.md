@@ -20,13 +20,13 @@ Here are some ideas to get you started:
 
 </br>
 
-**<p class = "title" align="center" font-size=15px >Used Language Percentage </p>**
+##<p class = "title" align="center" > Used Language Percentage </p>
 <p align = "center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mick243&layout=compact">
 </p>
 </br>
 
-**<p class = "title" align="center" font-size=15px >Commit</p>**
+##<p class = "title" align="center" >Commit</p>
 <p align = "center">
 <img src="https://github-readme-stats.vercel.app/api?username=mick243&show_icons=true&theme=radical">
 </p>
