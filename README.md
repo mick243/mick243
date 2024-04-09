@@ -21,9 +21,14 @@ Here are some ideas to get you started:
 <p align = "center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mick243&layout=compact">
 </p>
+
+---
+
 <p align = "center">
 <img src="https://github-readme-stats.vercel.app/api?username=mick243&show_icons=true&theme=radical">
 </p>
+
+---
 
 </br>
 
@@ -34,7 +39,9 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
 </div>
-</br></br>
+</br>
+---
+</br>
 <p class = "title" align="center">🌱 Tools 🌱 </p>
 <div align="center">
 	<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
