@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=F747EDFF&center=true&vCenter=false&multiline=true&repeat=true&width=900&height=100&lines=Jeongmin's+GitHub)](https://git.io/typing-svg)
 
 </br>
+
 **<p class = "title" align="center">Used Language Percentage </p>**
 <p align = "center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mick243&layout=compact">
