@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=mick243&show_icons=true&theme=radical">
 </p>
 </br>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=mick243)](https://solved.ac/mick243)
 
 ---
