@@ -32,7 +32,9 @@ Here are some ideas to get you started:
 </p>
 </br>
 
+<p alignm = "center">
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=mick243)](https://solved.ac/mick243)
+</p>
 
 ---
 
