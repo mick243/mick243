@@ -30,12 +30,12 @@ Here are some ideas to get you started:
 <p align = "center">
 <img src="https://github-readme-stats.vercel.app/api?username=mick243&show_icons=true&theme=radical">
 </p>
+
 </br>
 
-<p align="center">
+<div align="center">
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=mick243)](https://solved.ac/mick243)
-</p>
-
+</div>
 ---
 
 </br>
