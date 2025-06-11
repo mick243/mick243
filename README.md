@@ -34,7 +34,9 @@ Here are some ideas to get you started:
 </br>
 
 <div align="center">
+	
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=mick243)](https://solved.ac/mick243)
+
 </div>
 
 ---
