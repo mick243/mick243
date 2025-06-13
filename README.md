@@ -54,5 +54,6 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
 	<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" />
 	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black" />
+	<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=React&logoColor=white" />
 </div>
 </br>
