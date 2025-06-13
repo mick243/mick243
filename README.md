@@ -55,6 +55,6 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" />
 	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black" />
 	<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=React&logoColor=white" />
-	<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+	<img src="[https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white](https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue)" />
 </div>
 </br>
