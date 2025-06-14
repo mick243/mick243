@@ -24,15 +24,14 @@ Here are some ideas to get you started:
 <p align = "left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mick243&layout=compact">
 </p>
-<p align = "right">
-<img src="https://github-readme-stats.vercel.app/api?username=mick243&show_icons=true&theme=radical">
-</p>
 </br>
 
-<!-- **<p align="center" >Commit</p>**
+**<p align="center" >Commit</p>**
+<p align = "cneter">
+<img src="https://github-readme-stats.vercel.app/api?username=mick243&show_icons=true&theme=radical">
+</p>
 
-
-</br>-->
+</br>
 
 **<p align="center">🌱 BackJoon 🌱</p>**
 <div align="center">
