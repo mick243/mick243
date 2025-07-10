@@ -36,9 +36,7 @@ Here are some ideas to get you started:
 **<p align="center">🌱 BackJoon 🌱</p>**
 <div align="center">
 	
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=mick243)](https://solved.ac/mick243)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mick243)](https://solved.ac/mick243)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mick243)](https://solved.ac/mick243)
 
 </div>
 
