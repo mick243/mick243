@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 </br> -->
 
-**<p align="center">🌱 BackJoon 🌱</p>**
+**<p align="center">🌱 Solved.ac 🌱</p>**
 <div align="center">
 	
 [![Solved.ac
