@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- ![header](https://capsule-render.vercel.app/api?type=waving&color=F747EDFF&text=&animation=twinkling&height=80)
+ ![header](https://capsule-render.vercel.app/api?type=waving&color=39c5dd&text=&animation=twinkling&height=80)
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=F747EDFF&center=true&vCenter=false&multiline=true&repeat=true&width=900&height=100&lines=Jeongmin's+Github)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=39c5dd&center=true&vCenter=false&multiline=true&repeat=true&width=900&height=100&lines=Jeongmin's+Github)](https://git.io/typing-svg)
 
 </br>
 
